@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.tlog
+*.opensdf
+*.obj
+*.sdf
+*.ilk
+*.log
+*.pdb
+*.filters
+*.vcxproj
+*.sln
+*.suo
+*.idb
+*.exe
